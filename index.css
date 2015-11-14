@@ -1,0 +1,58 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: -apple-system, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header {
+	position: absolute;
+	width: 500px;
+	height: 250px;
+	top: 50%;
+	left: 50%;
+	margin-top: -125px;
+	margin-left: -250px;
+	text-align: center;
+}
+
+header h1 {
+	font-size: 60px;
+	font-weight: 100;
+	margin: 0;
+	padding: 0;
+}
+
+/*.typeahead {
+	display: inline;
+}*/
+
+/*.hover {
+	border-style: dotted;
+	border-width: 1px;
+}*/
+/*.typeahead-selector {
+	position: absolute;
+	border-style: solid;
+	border-width: 1px 2px 2px 1px;
+	background-color: white;
+}*/
+/*.typeahead-token {
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px 2px 2px 1px;
+	padding: 1px 5px 1px 5px;
+	margin-right: 4px;
+	display: inline;
+	border-radius: 5px;
+}*/
+/*.typeahead {
+	display: inline;
+}*/
+/*.typeahead-token-close {
+	text-decoration: none;
+	margin-left: 8px;
+}*/
