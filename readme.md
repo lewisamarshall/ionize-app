@@ -1,8 +1,5 @@
 # ionize-app
 
-> My cat&#39;s meow app
-
-
 ## Dev
 
 ```

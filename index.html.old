@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Ionize</title>
+		<link rel="stylesheet" href="index.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1>Ionize</h1>
+			</header>
+			<section class="main">
+				<div id="content"></div>
+				<script src="./bin/reactTable.js"></script>
+			</section>
+			<footer></footer>
+		</div>
+	</body>
+</html>
